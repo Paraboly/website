@@ -1,6 +1,5 @@
 +++
 description = "Content"
-draft = true
 title = "Title"
 
 +++

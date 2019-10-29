@@ -6467,7 +6467,8 @@ Classes to change the feel of bulma buttons
     font-family: "Open Sans", sans-serif;
     padding: 24px 26px;
     width: 130px;
-    box-shadow: 1px 1px 5px #c04d4d; }
+    box-shadow: 1px 1px 5px #c04d4d;
+    border-color: 1px 1px 5px rgba(183, 28, 28, 0.5); }
 
 .button.primary-btn {
   outline: none;

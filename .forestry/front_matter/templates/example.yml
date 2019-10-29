@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: description
   description: Description of the content
+pages:
+- content/title.md
